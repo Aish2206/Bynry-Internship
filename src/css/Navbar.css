@@ -1,0 +1,28 @@
+/* Navbar.css */
+nav {
+    display: flex;
+    justify-content: center;
+    background-color:rgb(249, 248, 249);
+    padding: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  Link:hover {
+    background-color: #54605e;
+  }
+  

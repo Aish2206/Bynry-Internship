@@ -1,0 +1,11 @@
+/* styles for the home page */
+
+.home-page {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(159, 240, 221); /* Adding black background */
+}
+
+.home-page h2 {
+  margin-bottom: 20px;
+}
